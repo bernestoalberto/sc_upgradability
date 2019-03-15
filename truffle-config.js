@@ -1,3 +1,4 @@
+
 var HDWalletProvider = require("truffle-hdwallet-provider");
 var mnemonic = "crater close lunar fitness uphold glue morning resemble suspect cigar front roast";
 
@@ -18,3 +19,5 @@ module.exports = {
     }
   }
 };
+
+
